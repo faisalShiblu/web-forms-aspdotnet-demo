@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_IndividualAuth", "WebForm_IndividualAuth\WebForm_IndividualAuth.csproj", "{07A33F2D-CA6E-4BCE-B0DE-E176911B8381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_Empty", "WebForm_Empty\WebForm_Empty.csproj", "{ADF81401-5CEC-43C2-AF3F-D83C47D02824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_NoAuth", "WebForm_NoAuth\WebForm_NoAuth.csproj", "{280B66EA-09C2-4847-AA97-BD7F904CF241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_MVC_NoAuth", "WebForm_MVC_NoAuth\WebForm_MVC_NoAuth.csproj", "{57CF3ACD-8E3E-49AE-A0E1-FD4A5B618F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_MVC_IndividualAuth", "WebForm_MVC_IndividualAuth\WebForm_MVC_IndividualAuth.csproj", "{7429FD4B-E3D0-4579-BD35-21B6AA4B5C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_MVC_Empty", "WebForm_MVC_Empty\WebForm_MVC_Empty.csproj", "{6CF92C0F-1E78-4C89-BDC0-B2A08C555DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A33F2D-CA6E-4BCE-B0DE-E176911B8381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A33F2D-CA6E-4BCE-B0DE-E176911B8381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A33F2D-CA6E-4BCE-B0DE-E176911B8381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A33F2D-CA6E-4BCE-B0DE-E176911B8381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF81401-5CEC-43C2-AF3F-D83C47D02824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF81401-5CEC-43C2-AF3F-D83C47D02824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF81401-5CEC-43C2-AF3F-D83C47D02824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF81401-5CEC-43C2-AF3F-D83C47D02824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280B66EA-09C2-4847-AA97-BD7F904CF241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280B66EA-09C2-4847-AA97-BD7F904CF241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280B66EA-09C2-4847-AA97-BD7F904CF241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280B66EA-09C2-4847-AA97-BD7F904CF241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CF3ACD-8E3E-49AE-A0E1-FD4A5B618F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CF3ACD-8E3E-49AE-A0E1-FD4A5B618F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CF3ACD-8E3E-49AE-A0E1-FD4A5B618F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CF3ACD-8E3E-49AE-A0E1-FD4A5B618F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7429FD4B-E3D0-4579-BD35-21B6AA4B5C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7429FD4B-E3D0-4579-BD35-21B6AA4B5C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7429FD4B-E3D0-4579-BD35-21B6AA4B5C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7429FD4B-E3D0-4579-BD35-21B6AA4B5C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF92C0F-1E78-4C89-BDC0-B2A08C555DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF92C0F-1E78-4C89-BDC0-B2A08C555DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF92C0F-1E78-4C89-BDC0-B2A08C555DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF92C0F-1E78-4C89-BDC0-B2A08C555DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {947E93CD-E3BE-4489-9896-0DA7F8F23314}
+	EndGlobalSection
+EndGlobal
